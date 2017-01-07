@@ -1,2 +1,3 @@
 # fossasia.github.io
-FOSSASIA.GitHub.io
+
+Please visit http://fossasia.org
